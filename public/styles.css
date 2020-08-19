@@ -1,0 +1,29 @@
+html{
+    height: 80%;
+}
+
+
+body{
+    background-image: url("alessandro-bogliari-oDs_AxeR5g4-unsplash.jpg");
+    background-size: cover;
+    
+}
+
+.container{
+    padding: 15%;
+}
+
+.jumbotron{
+    width: 50%;
+    margin-left: 25%;
+    padding-top: 3%;
+    
+}
+
+#content{
+    text-align: center;
+}
+
+.btn{
+    margin-left: 35%; 
+}

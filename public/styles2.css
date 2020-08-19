@@ -1,0 +1,51 @@
+h4{
+    
+    font-weight: 400;
+    margin-top: 0.6rem;
+    margin-left: 565px;
+}
+
+.container{
+    padding: 2%;
+    
+}
+
+.jumbotron{
+    width: 100%;
+    margin-left: 0;
+    padding: 1%;
+    
+}
+img{
+    width: 55px;
+}
+.outer{
+    border-right: black 1px solid;
+    border-bottom: black 1px solid;
+}
+body{
+    background: white;
+}
+
+.col-lg-5{
+    padding-left: 2rem;
+}
+
+.player{
+    padding-left: 0.1rem;
+    color: rgb(22, 22, 126);
+}
+
+.designation{
+    color: rgb(226, 67, 67);
+}
+.credits{
+    padding-left: 1.5rem;
+}
+
+.btn{
+    margin-left: 46%;
+}
+.team{
+    color: white;
+}
